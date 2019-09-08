@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "mocha": "^6.1.4",
+    "selenium-webdriver": "^4.0.0-alpha.3"
+  },
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Cakap Automation Test",
+  "main": "Login Cakap.js",
+  "scripts": {
+    "test": "mocha --recursive"
+  },
+  "author": "Lavin Bassam",
+  "license": "ISC"
+}
